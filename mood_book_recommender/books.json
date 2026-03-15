@@ -1,0 +1,8 @@
+[
+    {"title": "The Alchemist", "author": "Paulo Coelho", "mood": "sad"},
+    {"title": "Harry Potter", "author": "J.K. Rowling", "mood": "adventurous"},
+    {"title": "Pride and Prejudice", "author": "Jane Austen", "mood": "romantic"},
+    {"title": "The Hitchhiker's Guide to the Galaxy", "author": "Douglas Adams", "mood": "happy"},
+    {"title": "Sherlock Holmes", "author": "Arthur Conan Doyle", "mood": "curious"},
+    {"title": "Atomic Habits", "author": "James Clear", "mood": "stressed"}
+]
